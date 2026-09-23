@@ -1,0 +1,121 @@
+"Store_ID","Store_Name","Store_City","Store_Location","Total_SKUs","Replenishment_Risk_SKUs","Overstock_Risk_SKUs"
+85,Cedar Toy Corner Montgomery 1,"Montgomery, AL",Downtown,101,20,0
+60,Wonderland Toys Scottsdale 1,"Scottsdale, AZ",Downtown,104,13,0
+24,Playtime Emporium Los Angeles 1,"Los Angeles, CA",Downtown,134,12,2
+51,Bright Star Toy Shop Birmingham 1,"Birmingham, AL",Downtown,129,11,1
+17,Mini Makers Asheville 1,"Asheville, NC",Downtown,110,11,0
+115,Mountain Trail Toys Pittsburgh 1,"Pittsburgh, PA",Downtown,132,9,2
+1,Maple Street Toys Louisville 1,"Louisville, KY",Downtown,135,8,0
+31,Dinosaur Dreams Toys Glendale 1,"Glendale, AZ",Downtown,103,8,0
+34,Sunshine Toy Store Arlington 1,"Arlington, TX",Downtown,129,8,0
+99,City Lights Toys Stockton 1,"Stockton, CA",Downtown,108,7,4
+36,Board Game Barn Minneapolis 1,"Minneapolis, MN",Downtown,126,7,0
+12,Tiny Treasures Toys San Diego 1,"San Diego, CA",Downtown,110,6,1
+45,Kids Quest Toys Plano 1,"Plano, TX",Downtown,115,5,1
+65,Toy Galaxy Spokane 1,"Spokane, WA",Downtown,107,5,0
+83,Kids Quest Toys Winston-Salem 1,"Winston-Salem, NC",Downtown,130,5,0
+98,Wonderland Toys Chesapeake 1,"Chesapeake, VA",Downtown,117,4,2
+41,Classic Toy Chest Modesto 1,"Modesto, CA",Downtown,105,3,2
+53,Sunshine Toy Store Laredo 1,"Laredo, TX",Downtown,103,3,2
+110,Giggles & Gadgets Lubbock 1,"Lubbock, TX",Downtown,124,2,17
+116,Toy Haven New Orleans 1,"New Orleans, LA",Downtown,108,2,5
+96,Neighborhood Toy Co. San Bernardino 1,"San Bernardino, CA",Downtown,131,2,2
+106,Board Game Barn St. Petersburg 1,"St. Petersburg, FL",Downtown,133,1,20
+92,Storybook Toys Phoenix 1,"Phoenix, AZ",Downtown,131,1,4
+101,Storybook Toys Fort Collins 1,"Fort Collins, CO",Downtown,134,0,30
+38,Wonderland Toys Oakland 1,"Oakland, CA",Downtown,129,0,22
+113,Space Ranger Toys Oceanside 1,"Oceanside, CA",Downtown,121,0,20
+26,Board Game Barn Charleston 1,"Charleston, SC",Mall,131,0,17
+5,Tiny Treasures Toys Riverside 1,"Riverside, CA",Residential,114,0,16
+90,City Lights Toys Columbia 1,"Columbia, SC",Residential,128,0,15
+58,Little Sprouts Toys Savannah 1,"Savannah, GA",Commercial,133,0,14
+25,City Lights Toys Raleigh 1,"Raleigh, NC",Downtown,130,0,13
+7,Puzzle Planet Las Vegas 1,"Las Vegas, NV",Downtown,122,0,12
+48,Spark & Play Austin 1,"Austin, TX",Suburban,135,0,11
+64,Board Game Barn Yonkers 1,"Yonkers, NY",Airport,127,0,11
+66,Wonderland Toys Knoxville 1,"Knoxville, TN",Residential,121,0,10
+6,Rainbow Toy Market Sacramento 1,"Sacramento, CA",Residential,117,0,9
+37,Toy Haven Port St. Lucie 1,"Port St. Lucie, FL",Downtown,129,0,9
+50,Mountain Trail Toys Kansas City 1,"Kansas City, MO",Mall,113,0,9
+54,Sunshine Toy Store Tulsa 1,"Tulsa, OK",Mall,130,0,9
+59,Bright Star Toy Shop Little Rock 1,"Little Rock, AR",Mall,123,0,9
+18,Ocean Wave Toys Wichita 1,"Wichita, KS",Downtown,121,0,8
+42,Space Ranger Toys Philadelphia 1,"Philadelphia, PA",Suburban,100,0,8
+67,Wonderland Toys Huntington Beach 1,"Huntington Beach, CA",Mall,121,0,7
+84,Puzzle Planet Ann Arbor 1,"Ann Arbor, MI",Downtown,114,0,7
+91,Kids Quest Toys Fremont 1,"Fremont, CA",Suburban,108,0,7
+119,Adventure Toys Virginia Beach 1,"Virginia Beach, VA",Downtown,114,0,7
+21,Kids Quest Toys Santa Ana 1,"Santa Ana, CA",Suburban,124,0,6
+46,Maple Street Toys San Francisco 1,"San Francisco, CA",Commercial,134,0,6
+70,Wonderland Toys Chandler 1,"Chandler, AZ",Suburban,119,0,6
+77,Happy Hippo Toys Buffalo 1,"Buffalo, NY",Suburban,122,0,6
+93,Space Ranger Toys Tempe 1,"Tempe, AZ",Residential,112,0,6
+97,Storybook Toys Memphis 1,"Memphis, TN",Suburban,107,0,6
+94,Rocketship Toys Cleveland 1,"Cleveland, OH",Residential,124,0,5
+10,Board Game Barn Fayetteville 1,"Fayetteville, NC",Mall,130,0,4
+14,Puzzle Planet Honolulu 1,"Honolulu, HI",Mall,134,0,4
+28,Little Sprouts Toys Peoria 1,"Peoria, AZ",Downtown,127,0,4
+33,Maple Street Toys Dayton 1,"Dayton, OH",Commercial,123,0,4
+68,Wonderland Toys Boulder 1,"Boulder, CO",Residential,123,0,4
+76,Giggles & Gadgets Mesa 1,"Mesa, AZ",Residential,127,0,4
+100,Happy Hippo Toys Atlanta 1,"Atlanta, GA",Mall,127,0,4
+11,Spark & Play Dallas 1,"Dallas, TX",Commercial,114,0,3
+40,Puzzle Planet Fresno 1,"Fresno, CA",Downtown,102,0,3
+62,Mountain Trail Toys Baton Rouge 1,"Baton Rouge, LA",Commercial,121,0,3
+71,Neighborhood Toy Co. Rochester 1,"Rochester, NY",Downtown,117,0,3
+81,Bluebird Toys Salt Lake City 1,"Salt Lake City, UT",Mall,131,0,3
+95,Happy Hippo Toys Durham 1,"Durham, NC",Downtown,130,0,3
+102,Board Game Barn Iowa City 1,"Iowa City, IA",Airport,113,0,3
+111,Maple Street Toys Indianapolis 1,"Indianapolis, IN",Mall,105,0,3
+118,Giggles & Gadgets St. Louis 1,"St. Louis, MO",Mall,101,0,3
+3,Wonderland Toys Orlando 1,"Orlando, FL",Mall,100,0,2
+9,Space Ranger Toys Nashville 1,"Nashville, TN",Downtown,105,0,2
+23,Wonderland Toys Irvine 1,"Irvine, CA",Downtown,127,0,2
+27,Giggles & Gadgets Gilbert 1,"Gilbert, AZ",Commercial,119,0,2
+56,Board Game Barn Oklahoma City 1,"Oklahoma City, OK",Mall,110,0,2
+61,Rainbow Toy Market Baltimore 1,"Baltimore, MD",Downtown,101,0,2
+69,Bluebird Toys Amarillo 1,"Amarillo, TX",Mall,116,0,2
+72,Playtime Emporium Boston 1,"Boston, MA",Airport,118,0,2
+73,Rainbow Toy Market Tampa 1,"Tampa, FL",Downtown,130,0,2
+80,Spark & Play El Paso 1,"El Paso, TX",Commercial,135,0,2
+109,Wonderland Toys Lincoln 1,"Lincoln, NE",Mall,116,0,2
+117,Mountain Trail Toys Richmond 1,"Richmond, VA",Suburban,113,0,2
+4,Spark & Play St. Paul 1,"St. Paul, MN",Downtown,123,0,1
+8,Neighborhood Toy Co. Santa Rosa 1,"Santa Rosa, CA",Suburban,120,0,1
+19,Bluebird Toys Gainesville 1,"Gainesville, FL",Residential,100,0,1
+32,Rainbow Toy Market Tallahassee 1,"Tallahassee, FL",Suburban,103,0,1
+43,Creative Play Toys Irving 1,"Irving, TX",Commercial,135,0,1
+44,Classic Toy Chest Corpus Christi 1,"Corpus Christi, TX",Mall,99,0,1
+49,Wonderland Toys Eugene 1,"Eugene, OR",Commercial,110,0,1
+52,Toy Galaxy Madison 1,"Madison, WI",Commercial,112,0,1
+63,Dinosaur Dreams Toys Moreno Valley 1,"Moreno Valley, CA",Suburban,117,0,1
+78,Giggles & Gadgets San Jose 1,"San Jose, CA",Airport,127,0,1
+82,Toy Haven Albuquerque 1,"Albuquerque, NM",Commercial,119,0,1
+87,City Lights Toys Springfield 1,"Springfield, MO",Residential,131,0,1
+89,Spark & Play Omaha 1,"Omaha, NE",Residential,116,0,1
+103,Toy Haven Akron 1,"Akron, OH",Downtown,127,0,1
+105,Wonderland Toys Santa Clarita 1,"Santa Clarita, CA",Mall,118,0,1
+2,Puzzle Planet San Antonio 1,"San Antonio, TX",Commercial,109,0,0
+13,Space Ranger Toys Detroit 1,"Detroit, MI",Mall,100,0,0
+15,Bluebird Toys Lexington 1,"Lexington, KY",Downtown,132,0,0
+16,Rocketship Toys Chattanooga 1,"Chattanooga, TN",Mall,131,0,0
+20,Mini Makers Oxnard 1,"Oxnard, CA",Commercial,108,0,0
+22,City Lights Toys Aurora 1,"Aurora, IL",Mall,111,0,0
+29,Mini Makers Miami 1,"Miami, FL",Commercial,101,0,0
+30,Bluebird Toys Naperville 1,"Naperville, IL",Residential,103,0,0
+35,Playtime Emporium Fort Worth 1,"Fort Worth, TX",Commercial,133,0,0
+39,Wonderland Toys Jersey City 1,"Jersey City, NJ",Mall,100,0,0
+47,Neighborhood Toy Co. Worcester 1,"Worcester, MA",Mall,106,0,0
+55,Board Game Barn Toledo 1,"Toledo, OH",Downtown,116,0,0
+57,Bluebird Toys Norfolk 1,"Norfolk, VA",Mall,104,0,0
+74,Creative Play Toys Huntsville 1,"Huntsville, AL",Downtown,105,0,0
+75,Wonderland Toys Newport News 1,"Newport News, VA",Residential,116,0,0
+79,Storybook Toys Grand Rapids 1,"Grand Rapids, MI",Commercial,122,0,0
+86,Maple Street Toys Des Moines 1,"Des Moines, IA",Commercial,123,0,0
+88,Mini Makers Syracuse 1,"Syracuse, NY",Suburban,102,0,0
+104,Dinosaur Dreams Toys Columbus 1,"Columbus, OH",Suburban,114,0,0
+107,Wonderland Toys Portland 1,"Portland, OR",Commercial,112,0,0
+108,Bluebird Toys Fort Lauderdale 1,"Fort Lauderdale, FL",Mall,120,0,0
+112,Neighborhood Toy Co. Cincinnati 1,"Cincinnati, OH",Commercial,108,0,0
+114,Neighborhood Toy Co. Garland 1,"Garland, TX",Downtown,106,0,0
+120,Dinosaur Dreams Toys Aurora 1,"Aurora, CO",Downtown,107,0,0
